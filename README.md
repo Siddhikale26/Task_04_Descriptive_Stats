@@ -18,3 +18,6 @@ This repository contains scripts and notebooks for computing descriptive statist
    ```bash
    git clone https://github.com/Siddhikale26/Task_04_Descriptive_Stats.git
    cd Task_04_Descriptive_Stats
+
+## Author
+Siddhi Machhindra Kale
